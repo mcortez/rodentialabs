@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeTest", "UnicodeTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawArena", "DrawArena\DrawArena.csproj", "{F20873E6-1DFD-422D-B9BC-1D2AA3955FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayField", "PlayField\PlayField.csproj", "{D3108656-6BCF-40B6-A4EC-04DACC305630}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F20873E6-1DFD-422D-B9BC-1D2AA3955FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F20873E6-1DFD-422D-B9BC-1D2AA3955FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F20873E6-1DFD-422D-B9BC-1D2AA3955FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3108656-6BCF-40B6-A4EC-04DACC305630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3108656-6BCF-40B6-A4EC-04DACC305630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3108656-6BCF-40B6-A4EC-04DACC305630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3108656-6BCF-40B6-A4EC-04DACC305630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
